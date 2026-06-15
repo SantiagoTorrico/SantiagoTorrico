@@ -4,12 +4,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<div align="start">
-Soy un <strong>Desarrollador Web Junior</strong> apasionado por la creación de aplicaciones y sitios web funcionales, atractivos y fáciles de usar. </br>
+<div>
+## 👋 Sobre mí
 
-Me considero una persona responsable, comprometida y con una gran disposición para seguir aprendiendo. Trabajo tanto en el desarrollo frontend como backend, buscando siempre ofrecer soluciones rápidas, eficientes y con una excelente experiencia de usuario.
+Soy un **Desarrollador Web Junior** apasionado por la creación de sitios web y aplicaciones funcionales, atractivas y fáciles de usar.
 
-Disfruto aprender nuevas tecnologías, resolver problemas y mejorar continuamente cada proyecto en el que participo. Mi objetivo es transformar ideas en soluciones digitales útiles y de calidad.
+Me considero una persona responsable, comprometida y con una gran capacidad de aprendizaje. Trabajo tanto en el desarrollo **frontend** como **backend**, buscando siempre ofrecer soluciones eficientes, intuitivas y de calidad.
+
+Disfruto aprender nuevas tecnologías, resolver problemas y afrontar nuevos retos que me permitan seguir creciendo profesionalmente. Mi objetivo es transformar ideas en soluciones digitales útiles que aporten valor a los usuarios y a los proyectos en los que participo.
+
 </div>
 
 - 👨‍💻 Actualmente trabajo con tecnologías de desarrollo web como Angular.
