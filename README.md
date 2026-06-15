@@ -3,10 +3,12 @@
   Hola, Soy Santiago Torrico
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p>
-Soy un Desarrollador web Junior.
-Soy una persona responsable y comprometida con mi trabajo. me dedico a crear páginas y aplicaciones funcionales y atractivas. Trabajo tanto en la parte visual como en la lógica, buscando siempre que todo sea rápido, claro y fácil de usar.
-Me gusta aprender nuevas tecnologías, resolver problemas y mejorar cada proyecto en el que trabajo. Disfruto convertir ideas en soluciones digitales útiles.
+<p align="center">
+Soy un Desarrollador Web Junior apasionado por la creación de aplicaciones y sitios web funcionales, atractivos y fáciles de usar.
+
+Me considero una persona responsable, comprometida y con una gran disposición para seguir aprendiendo. Trabajo tanto en el desarrollo frontend como backend, buscando siempre ofrecer soluciones rápidas, eficientes y con una excelente experiencia de usuario.
+
+Disfruto aprender nuevas tecnologías, resolver problemas y mejorar continuamente cada proyecto en el que participo. Mi objetivo es transformar ideas en soluciones digitales útiles y de calidad.
 </p>
 
 - 👨‍💻 Actualmente trabajo con tecnologías de desarrollo web como Angular.
