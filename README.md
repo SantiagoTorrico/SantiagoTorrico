@@ -13,7 +13,7 @@ Me gusta aprender nuevas tecnologías, resolver problemas y mejorar cada proyect
 - 📚 Estoy aprendiendo más sobre desarrollo de frontend y backend.
 - 🎯 Metas futuras: Mejorar en tecnologías web - Crear sitios web increíbles.
   
-- 📫 Social links
+- 📫 Redes Sociales
 <p>
 	<a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/santiago-torrico-valdivieso-51a063366/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
