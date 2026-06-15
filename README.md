@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-Soy un desarrollador web Junior, 
+Soy un Desarrollador web Junior.
+Soy una persona responsable y comprometida con mi trabajo. me dedico a crear páginas y aplicaciones funcionales y atractivas. Trabajo tanto en la parte visual como en la lógica, buscando siempre que todo sea rápido, claro y fácil de usar.
+Me gusta aprender nuevas tecnologías, resolver problemas y mejorar cada proyecto en el que trabajo. Disfruto convertir ideas en soluciones digitales útiles.
 </p>
 
 - 👨‍💻 Actualmente trabajo con tecnologías de desarrollo web como Angular.
@@ -14,7 +16,7 @@ Soy un desarrollador web Junior,
 - 📫 Social links
 <p>
 	<a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="[https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white](https://www.linkedin.com/public-profile/settings)" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
