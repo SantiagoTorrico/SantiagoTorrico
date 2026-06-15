@@ -25,20 +25,15 @@ Me gusta aprender nuevas tecnologías, resolver problemas y mejorar cada proyect
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 #### 🖥️ Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 #### 🔧 Herramientas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-</a>
