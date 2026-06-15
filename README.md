@@ -7,6 +7,7 @@
 <div align="start">
 Soy un <strong>Desarrollador Web Junior</strong> apasionado por la creación de aplicaciones y sitios web funcionales, atractivos y fáciles de usar.
 
+
 Me considero una persona responsable, comprometida y con una gran disposición para seguir aprendiendo. Trabajo tanto en el desarrollo frontend como backend, buscando siempre ofrecer soluciones rápidas, eficientes y con una excelente experiencia de usuario.
 
 Disfruto aprender nuevas tecnologías, resolver problemas y mejorar continuamente cada proyecto en el que participo. Mi objetivo es transformar ideas en soluciones digitales útiles y de calidad.
