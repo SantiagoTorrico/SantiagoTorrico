@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
+<p align="start">
 Soy un <strong>Desarrollador Web Junior</strong> apasionado por la creación de aplicaciones y sitios web funcionales, atractivos y fáciles de usar.
 </p>
 
