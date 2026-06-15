@@ -5,6 +5,7 @@
 </h1>
 
 <div>
+
 Soy un **Desarrollador Web Junior** apasionado por la creación de sitios web y aplicaciones funcionales, atractivas y fáciles de usar.
 
 Me considero una persona responsable, comprometida y con una gran capacidad de aprendizaje. Trabajo tanto en el desarrollo **frontend** como **backend**, buscando siempre ofrecer soluciones eficientes, intuitivas y de calidad.
