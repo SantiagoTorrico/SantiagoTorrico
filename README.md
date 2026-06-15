@@ -15,7 +15,7 @@ Disfruto aprender nuevas tecnologías, resolver problemas y afrontar nuevos reto
 </div>
 
 - 👨‍💻 Actualmente trabajo con tecnologías de desarrollo web como Angular.
-- 📚 Estoy aprendiendo más sobre desarrollo de frontend y backend.
+- 📚 Estoy desarrollado más mis capacidades en desarrollo de frontend y backend.
 - 🎯 Metas futuras: Mejorar en tecnologías web - Crear sitios web increíbles.
   
 #### 📫 Redes Sociales
